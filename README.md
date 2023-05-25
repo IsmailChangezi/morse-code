@@ -106,10 +106,11 @@ Example command:
 - GitHub: [@IsmailChangezi](https://github.com/IsmailChangezi)
 - LinkedIn: [Ismail Changezi](https://www.linkedin.com/in/ismailchangezi/)
 
-👤 **Your name**
+👤 **Syed Atril**
 
-- GitHub: [@](https://github.com/)
-- linkedIn: [@](https://www.linkedin.com/in/)
+- GitHub: [@githubhandle](https://github.com/Atril33)
+- Twitter: [@twitterhandle](https://twitter.com/AtrilSyed)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/syed-atril-831696248/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
