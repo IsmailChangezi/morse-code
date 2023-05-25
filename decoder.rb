@@ -25,11 +25,11 @@ end
 
 
 decoded_char = MorseCodeDecoder.decode_char('.-')
-puts decoded_char # Output: "A"
+puts decoded_char
 
 
 decoded_word = MorseCodeDecoder.decode_word("-- -.--")
-puts decoded_word # Output: "MY"
+puts decoded_word
 
 
 decoded_message = MorseCodeDecoder.decode(" .-   -... --- -..-   ..-. ..- .-.. .-..   --- ..-.   .-. ..- -... .. . ...")
