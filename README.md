@@ -5,7 +5,7 @@
 <div align="center">
 
   <h3><b>Full Stack Developers</b></h3>
-  <h2><b>Ismail Changezi & Your name</b></h2>
+  <h2><b>Ismail Changezi & Syed Atril</b></h2>
 
 </div>
 
